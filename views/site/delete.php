@@ -1,0 +1,1 @@
+<h1>Delete the data</h1>
